@@ -22,14 +22,15 @@
     - title: B.S. in Statistics
       institution: School for the Gifted Young, University of Science and Technology of China
       year: 2016      
+      
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral fellow
+      institution: Johns Hopkins University, Baltimore, MD
+      year: Aug. 2019 - Jan. 2023
       description:
-        - Description 1.
+        - Mentor: Dr. [Nilanjan Chatterjee](https://nilanjanchatterjee.org/)
         - Description 2.
         - title: Description 3.
           contents:
