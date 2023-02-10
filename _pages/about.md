@@ -26,11 +26,11 @@ I am an Assistant Professor of Biostatistics at the the University of Pennsylvan
 
 My research interests focus on developing statistical and computational methods to address cutting-edge problems in public health and medicine by integrating large-scale, multi-source datasets. Within this scope, my research involves health equity in disease risk prediction, statistical genetics, Bayesian hierarchical models for high-dimensional, complex-structured data, and statistical data integration.
 
-In February 2022, I received an [NIH Pathway to Independence Award (K99/R00) award](https://reporter.nih.gov/search/5u7x8jpqxUSznDKcHnIqSw/project-details/10349828) from the National Human Genome Research Institute ([NHGRI](https://www.genome.gov/)) as a Principal Investigator for multi-ethnic disease risk prediction integrating multi-source information on genetic and other risk factors.
+In February 2022, I received an [NIH Pathway to Independence Award (K99/R00) award](https://reporter.nih.gov/search/5u7x8jpqxUSznDKcHnIqSw/project-details/10349828) from the National Human Genome Research Institute ([NHGRI](https://www.genome.gov/)) as a Principal Investigator for multi-ethnic disease risk prediction integrating multi-source information on genetic and other risk factors. <br /> 
 
 
 
----
+
 
 ### **Contact**
 
