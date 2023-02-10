@@ -34,11 +34,11 @@ In February 2022, I received an [NIH Pathway to Independence Award (K99/R00) awa
 
 ### **Contact**
 
-Department of Biostatistics, Epidemiology and Bioinformatics
-University of Pennsylvania, Perelman School of Medicine
-203 Blockley Hall
-423 Guardian Drive
-Philadelphia, PA 19104
+Department of Biostatistics, Epidemiology and Bioinformatics <br /> 
+University of Pennsylvania, Perelman School of Medicine <br /> 
+203 Blockley Hall <br /> 
+423 Guardian Drive <br /> 
+Philadelphia, PA 19104 <br /> 
 
 Email: <a href = "mailto: Jin.Jin@Pennmedicine.upenn.edu">Jin.Jin@Pennmedicine.upenn.edu</a>
 

@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 nav: true
-sort: 5
+sort: 4
 ---
 
 ## Teaching Assistant 

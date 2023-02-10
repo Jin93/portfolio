@@ -3,7 +3,7 @@ layout: page
 permalink: /software/
 title: Software
 nav: true
-sort: 6
+sort: 5
 ---
 
 #### R Packages
