@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: 
-      value: Department of Biostatistics, Epidemiology and Bioinformatics
-University of Pennsylvania, Perelman School of Medicine
-203 Blockley Hall
-423 Guardian Drive
-Philadelphia, PA 19104
+      value: Department of Biostatistics, Epidemiology and Bioinformatics <br />
+      University of Pennsylvania, Perelman School of Medicine <br />
+      203 Blockley Hall <br />
+      423 Guardian Drive <br />
+      Philadelphia, PA 19104
      - name: Email
       value: <a href = "mailto: Jin.Jin@Pennmedicine.upenn.edu">Jin.Jin@Pennmedicine.upenn.edu</a>
 
@@ -16,15 +16,12 @@ Philadelphia, PA 19104
     - title: Ph.D. in Biostatistics
       institution: University of Minnesota Twin Cities
       year: 2019
-      
     - title: M.S. in Biostatistics
       institution: University of Minnesota Twin Cities
       year: 2016
-      
     - title: B.S. in Statistics
       institution: School for the Gifted Young, University of Science and Technology of China
       year: 2016      
-
 - title: Experience
   type: time_table
   contents:

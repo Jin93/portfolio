@@ -6,7 +6,7 @@ permalink: /
 profile:
   align: right
   image: Jin2023.jpeg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   # address: >
   #   <p>Department of Biostatistics, Epidemiology and Bioinformatics
   #      University of Pennsylvania, Perelman School of Medicine
