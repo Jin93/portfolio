@@ -1,32 +1,29 @@
-- title: General Information
+- title: Contact
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: 
+      value: Department of Biostatistics, Epidemiology and Bioinformatics
+University of Pennsylvania, Perelman School of Medicine
+203 Blockley Hall
+423 Guardian Drive
+Philadelphia, PA 19104
+     - name: Email
+      value: <a href = "mailto: Jin.Jin@Pennmedicine.upenn.edu">Jin.Jin@Pennmedicine.upenn.edu</a>
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Ph.D. in Biostatistics
+      institution: University of Minnesota Twin Cities
+      year: 2019
+      
+    - title: M.S. in Biostatistics
+      institution: University of Minnesota Twin Cities
+      year: 2016
+      
+    - title: B.S. in Statistics
+      institution: School for the Gifted Young, University of Science and Technology of China
+      year: 2016      
 
 - title: Experience
   type: time_table
