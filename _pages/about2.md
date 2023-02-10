@@ -40,8 +40,8 @@ In February 2022, I received an [NIH Pathway to Independence Award (K99/R00) awa
         </div>
 
   <div class="span2">
-        <a href="../pics/karl_2014-03-30.jpg">
-            <img src="assets/img/Jin2023.jpeg"
+        <a href="../assets/img/Jin2023.jpeg">
+            <img src="../assets/img/Jin2023.jpeg"
                   title="Jin Jin" alt="Jin Jin"/></a>
         </div>
     </div>
