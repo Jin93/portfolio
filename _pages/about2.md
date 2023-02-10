@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-nav: true
+nav: false
 sort: 7
 ---
   
