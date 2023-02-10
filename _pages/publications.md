@@ -9,7 +9,7 @@ sort: 3
 ---
 
 
-# Publications
+
 <!-- * denotes equal contribution -->
 <!-- <h1> preprints </h1> -->
 \* First authors with equal contribution.  
