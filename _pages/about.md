@@ -2,18 +2,17 @@
 layout: about
 title: Bio
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: left
   image: Jin2023.jpeg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>Department of Biostatistics, Epidemiology and Bioinformatics
-       University of Pennsylvania, Perelman School of Medicine
-       203 Blockley Hall
-       423 Guardian Drive</p>
-    <p>Philadelphia, PA 19104</p>
+  image_circular: true # crops the image to make it circular
+  # address: >
+  #   <p>Department of Biostatistics, Epidemiology and Bioinformatics
+  #      University of Pennsylvania, Perelman School of Medicine
+  #      203 Blockley Hall
+  #      423 Guardian Drive</p>
+  #   <p>Philadelphia, PA 19104</p>
 
 news: true  # includes a list of news items
 selected_papers: flase # includes a list of papers marked as "selected={true}"
