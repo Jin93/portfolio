@@ -1,14 +1,7 @@
 - title: Contact
   type: map
   contents:
-    - name: 
-      value: Department of Biostatistics, Epidemiology and Bioinformatics <br />
-      University of Pennsylvania, Perelman School of Medicine <br />
-      203 Blockley Hall <br />
-      423 Guardian Drive <br />
-      Philadelphia, PA 19104
-     - name: Email
-      value: <a href = "mailto: Jin.Jin@Pennmedicine.upenn.edu">Jin.Jin@Pennmedicine.upenn.edu</a>
+
 
 - title: Education
   type: time_table
