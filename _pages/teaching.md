@@ -1,12 +1,25 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
 nav: true
 sort: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Teaching Assistant 
+(at the University of Minnesota, Twin Cities)  
+&nbsp;  
 
-Organize your courses by years, topics, or universities, however you like!
+Bayesian Decision Theory and Data Analysis  &nbsp;(Spring 2018)
+
+Advanced Statistical Inference  &nbsp;(Spring 2017)
+
+Survival Analysis  &nbsp;(Fall 2016 & Fall 2017)
+
+Biostatistics Modeling and Methods  &nbsp;(Spring 2016)
+
+Fundamentals of Biostatistical Inference  &nbsp;(Fall 2015)
+
+Biostatistical Methods II  &nbsp;(Spring 2015)
+
+Biostatistical Methods I  &nbsp;(Fall 2014 & Spring 2015)
