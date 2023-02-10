@@ -14,7 +14,7 @@ __Risk prediction models for human diseases__
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/risk_prediction_long.png" title="Example Figure: Disease Risk Prediction" class: "img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/risk_prediction_long.png" title="Example Figure: Disease Risk Prediction" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">Large-scale epidemiologic studies, including modern genome-wide association studies (GWAS), are now rapidly leading to the identification of novel risk factors for human diseases. To summarize these findings into more effective strategies for reducing disease burden, a critical step is to advance risk prediction tools that predict future risk of diseases for healthy individuals and precision medicine to guide treatment strategies for targeted groups of patients.</div>
 </div>  
@@ -40,7 +40,7 @@ __High-dimensional tests for disease-associated gene pathways__
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/T2DAG_long.png" title="T2DAG" class: "img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/T2DAG_long.png" title="T2DAG" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">A major task in genetic studies is to identify genes related to human traits/diseases. Compared to marginal analyses of individual genes, detecting gene pathway, i.e., gene sets with known interactions that collectively contribute to some biological functions, can provide more biologically meaningful results. Due to the typically limited sample sizes, such analyses are usually high-dimensional, where the existing tests tend to have compromised power since they do not or only inefficiently incorporate the external pathway information on gene interactions. </div>
 </div>  
@@ -60,7 +60,7 @@ __Mendelian randomization (MR) analysis for latent exposures__
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MRLE_long.png" title="MRLE" class: "img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MRLE_long.png" title="MRLE" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">Recent MR research has focused on improving robustness to the presence of pleiotropic associations, by which genetic instruments can affect the outcome independent of the exposure and thus leading to the violation of key assumptions. I investigated a novel setting of pleiotropic association where genetic variants might be associated with multiple observed traits through an underlying latent exposure which may have a causal effect on the outcome.</div>
 </div>
@@ -81,7 +81,7 @@ __MpMRI-based classification of Prostate cancer (PCa)__
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/PCA_long.png" title="PCa detection" class: "img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/PCA_long.png" title="PCa detection" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">My research during the Ph.D. program focused on voxel-wise PCa detection using mpMRI, a critical tool in PCa diagnosis and management. MpMRI examinations are currently interpreted manually which is limited due to inter-reader variability. Automatic, quantitative predictive methods are thus proposed to address these limitations. We identified critical issues of the existing methods and developed scalable, high-field MRI-based Bayesian and machine learning-based classifers that can be used as non-invasive tools to assist clinicians with PCa diagnosis and treatment.</div>
 </div>
@@ -111,7 +111,7 @@ __Early-phase oncology trial design__
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/CBHM_long.png" title="Basket Trials" class: "img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/CBHM_long.png" title="Basket Trials" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">As oncology research are focusing more on the genomic aberrations potentially shared by multiple cancer types, basket trials have been proposed to assess the efficacy of a new treatment simultaneously on multiple cancer types. But even with shared genetic aberration, different cancers may respond to treatments differently. I collaborated with a research team at Sanofi to develop novel Bayesian methods for detecting treatment efficacy and proof of concept (PoC) in early-phase basket trials by flexible borrowing according to sample similarity measured by the distance between posterior distributions of the treatment effects.</div>
 </div>
