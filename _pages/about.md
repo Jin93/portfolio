@@ -29,4 +29,15 @@ My research interests focus on developing statistical and computational methods 
 In February 2022, I received an [NIH Pathway to Independence Award (K99/R00) award](https://reporter.nih.gov/search/5u7x8jpqxUSznDKcHnIqSw/project-details/10349828) from the National Human Genome Research Institute ([NHGRI](https://www.genome.gov/)) as a Principal Investigator for multi-ethnic disease risk prediction integrating multi-source information on genetic and other risk factors.
 
 
+### **Contact**
+
+Department of Biostatistics, Epidemiology and Bioinformatics
+University of Pennsylvania, Perelman School of Medicine
+203 Blockley Hall
+423 Guardian Drive
+Philadelphia, PA 19104
+
+Email: <a href = "mailto: Jin.Jin@Pennmedicine.upenn.edu">Jin.Jin@Pennmedicine.upenn.edu</a>
+
+
 &nbsp;
