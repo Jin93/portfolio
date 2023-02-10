@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: Jin2023.jpeg
+  image: Jin2023-small.jpeg
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>Department of Biostatistics, Epidemiology and Bioinformatics
