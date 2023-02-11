@@ -4,5 +4,5 @@ permalink: /cv/
 title: CV
 nav: true
 sort: 1
-cv_pdf: example_pdf.pdf
+cv_pdf: CV.pdf
 ---
