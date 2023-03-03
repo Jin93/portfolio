@@ -8,7 +8,8 @@ sort: 5
 
 #### R Packages
 [MEBayesSL](https://github.com/Jin93/MEBayesSL){:target="_blank"}
-MEBayesSL is an R-based command line tool for implementing ME-Bayes SL, a powerful method for developing ancestry-specific polygenic risk score (PRS) that integrates information from GWAS summary statistics and external LD reference data from multiple populations (ancestry groups). ME-Bayes SL infers SNP effect sizes via a Bayesian model with an induced prior correlation structure across populations followed by an ensemble learning step with the Super Learner. 
+An R-based command line tool for implementing ME-Bayes SL, a powerful method for developing ancestry-specific polygenic risk score (PRS) that integrates information from GWAS summary statistics and external LD reference data from multiple populations (ancestry groups).
+
 [Paper available upon request: Jin.Jin@Pennmedicine.upenn.edu]
 
 [MRLE](https://github.com/Jin93/MRLE){:target="_blank"}
@@ -27,7 +28,7 @@ A DAG-informed high-dimensional two-sample test for disease-associated gene path
         {% include figure.html path="assets/img/risktool.png" title="Example output of the risk tool" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">The tool provides an assessment of individualized risks for mortality from COVID-19 using the best publicly available information on risks associated with various pre-existing conditions and socio-demographic factors. We further tailored it to produce absolute risk estimates in future time frames by incorporating information on pandemic dynamics at the community level with projections available from an ensemble of pandemic forecasting models. </div>
-</div>[[Paper](https://www.nature.com/articles/s41591-020-01191-8)]
+</div>
 &nbsp;
 
 
@@ -41,3 +42,6 @@ A DAG-informed high-dimensional two-sample test for disease-associated gene path
 </div>
 </div>
 &nbsp;
+
+
+[[Paper](https://www.nature.com/articles/s41591-020-01191-8)]
