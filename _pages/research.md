@@ -6,7 +6,7 @@ nav: true
 sort: 2
 ---
 
-# Research
+
 I have a broad research interest in developing statistical and computational methods to address cutting-edge public health problems by integrating information from diverse large datasets. My current focus is on racial- and ethnic-based health disparities, specifically, the development of trans-ethnic models for informing the prediction and biology of diseases.
 
 ---
