@@ -3,7 +3,7 @@ layout: page
 permalink: /positions/
 title: Positions
 nav: true
-sort: 6
+sort: 5
 ---
 
 #### __Postdoctoral Fellow__
