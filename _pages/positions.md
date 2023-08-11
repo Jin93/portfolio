@@ -6,10 +6,10 @@ nav: true
 sort: 6
 ---
 
-### Postdoctoral Fellow
+#### Postdoctoral Fellow
 Applications are invited for a postdoctoral position in Dr. Jin’s group at the University of Pennsylvania. The candidate will have the opportunity to lead both independent and collaborative projects on methodological and applied research in statistical genetics/genomics, causal inference, predictive modeling, and health equity. Specific topics include, but are not limited to, (1) data integration methods for developing statistical models and machine learning algorithms integrating information on genetic and other risk factors across diverse data sources on the individual-, population, and summary-levels; (2) equitable disease risk prediction and inference of disease etiology across diverse populations, especially those of historically underrepresented ancestry groups; (3) novel methods for Mendelian randomization analysis and transcriptome-wide association studies (TWAS); and (4) scalable Bayesian modeling of large-scale health data. Application areas include aging research, mental disorders, Alzheimer’s disease, and kidney diseases. The successful candidate will work with Dr. Jin and multidisciplinary collaborators at the University of Pennsylvania and Johns Hopkins University. The candidate is expected to lead/co-lead publications in high-impact statistical and scientific journals and have the opportunity to apply for NIH grants (e.g., NIH Pathway to Independence Award, K99/R00).
 
-__Qualifications__
+__- Qualifications__
 The successful candidate will have a PhD in Biostatistics, Statistics, Computer Science, Biomedical Engineering, or a closely related area, demonstrated a capacity to produce high quality research, and strong programming skills to work with large datasets in a statistical language (e.g., R, Python).
 
 __Application Instruction__
@@ -22,5 +22,5 @@ __Start Date__
 Negotiable
 
 
-### Student RA
+#### Student RA
 Master and PhD students in the Penn DBEI and AMCS programs are welcome to join my group. Please send your CV/resume to jin.jin@pennmedicine.upenn.edu.
