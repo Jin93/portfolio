@@ -7,8 +7,8 @@ sort: 6
 ---
 
 #### R Packages
-[MEBayesSL](https://github.com/Jin93/MEBayesSL){:target="_blank"}
-An R-based command line tool for implementing ME-Bayes SL, a powerful method for developing ancestry-specific polygenic risk score (PRS) that integrates information from GWAS summary statistics and external LD reference data from multiple populations (ancestry groups).
+[MUSSEL](https://github.com/Jin93/MUSSEL){:target="_blank"}
+An R-based command line tool for implementing MUSSEL (MUltivariate Spike and Slab and Ensemble Learning), a powerful method for developing ancestry-specific polygenic risk score (PRS) that integrates information from GWAS summary statistics and external LD reference data from multiple populations (ancestry groups).
 
 [Paper available upon request: Jin.Jin@Pennmedicine.upenn.edu]
 
