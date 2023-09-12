@@ -52,7 +52,8 @@ sort: 3
     </div>
 </div>  
 &nbsp;
-
+&nbsp;
+&nbsp;
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
