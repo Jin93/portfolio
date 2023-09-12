@@ -74,7 +74,7 @@ sort: 3
         {% include figure.html path="assets/img/Yue Yu.png" title="YY" class="img-fluid rounded z-depth-1" width="250"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-    Ruofan Wang <br />
+    Yue Yu <br />
     M.S. candidate <br />
     B.S., Statistics, Southern University of Science and Technology
     </div>
