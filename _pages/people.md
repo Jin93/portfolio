@@ -32,6 +32,7 @@ sort: 3
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Dong Heon Lee <br />
+    (Co-advised by [Mingyao Li](https://transgen.med.upenn.edu/people/mingyao-li/))
     Ph.D. candidate <br />
     M.S. in Public Health, the Dartmouth Institute for Health Policy & Clinical Practice <br />
     B.A. in Statistics, Williams College
