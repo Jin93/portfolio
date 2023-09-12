@@ -76,7 +76,7 @@ sort: 3
     <div class="col-sm-8 mt-3 mt-md-0">
     Yue Yu <br />
     M.S. candidate <br />
-    B.S., Statistics, Southern University of Science and Technology
+    B.S., Statistics, the Ohio State University
     </div>
 </div>  
 &nbsp;
