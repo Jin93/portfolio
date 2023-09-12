@@ -54,5 +54,18 @@ sort: 3
 &nbsp;
 
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Ruofan Wang.jpeg" title="RW" class="img-fluid rounded z-depth-1" width="250"%}
+    </div>
+    <div class="col-sm-7 mt-3 mt-md-0">
+    Ruofan Wang <br />
+    M.S. candidate <br />
+    B.S., Statistics, Southern University of Science and Technology
+    </div>
+</div>  
+&nbsp;
+
+
 
 
