@@ -33,7 +33,7 @@ sort: 3
     <div class="col-sm-8 mt-3 mt-md-0">
     Dong Heon Lee <br />
     (Co-advised by [Mingyao Li](https://transgen.med.upenn.edu/people/mingyao-li/)) <br />
-    Ph.D. candidate <br />
+    Ph.D. candidate, Biostatistics <br />
     M.S. in Public Health, the Dartmouth Institute for Health Policy & Clinical Practice <br />
     B.A. in Statistics, Williams College
     </div>
@@ -48,7 +48,7 @@ sort: 3
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Yihao Wang <br />
-    M.S. candidate <br />
+    M.S. candidate, Biostatistics <br />
     B.S. in Statistics, University of Illinois at Urbana-Champaign
     </div>
 </div>  
@@ -62,7 +62,7 @@ sort: 3
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Ruofan Wang <br />
-    M.S. candidate <br />
+    M.S. candidate, Biostatistics <br />
     B.S. in Statistics, Southern University of Science and Technology
     </div>
 </div>  
@@ -76,7 +76,7 @@ sort: 3
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Yue Yu <br />
-    M.S. candidate <br />
+    M.S. candidate, Biostatistics <br />
     B.S. in Statistics, the Ohio State University
     </div>
 </div>  
