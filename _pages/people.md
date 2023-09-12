@@ -16,8 +16,8 @@ sort: 3
     <div class="col-sm-8 mt-3 mt-md-0">
     Jin Jin <br />
     Assistant Professor of Biostatistics <br />
-    Ph.D., Biostatistics, University of Minnesota Twin Cities <br />
-    B.S., Statistics, University of Science and Technology of China</div>
+    Ph.D. in Biostatistics, University of Minnesota Twin Cities <br />
+    B.S. in Statistics, University of Science and Technology of China</div>
 </div>  
 &nbsp;
 
@@ -33,8 +33,8 @@ sort: 3
     <div class="col-sm-8 mt-3 mt-md-0">
     Dong Heon Lee <br />
     Ph.D. candidate <br />
-    M.S., Public Health, the Dartmouth Institute for Health Policy & Clinical Practice <br />
-    B.A., Statistics, Williams College
+    M.S. in Public Health, the Dartmouth Institute for Health Policy & Clinical Practice <br />
+    B.A. in Statistics, Williams College
     </div>
 </div>  
 &nbsp;
@@ -48,7 +48,7 @@ sort: 3
     <div class="col-sm-8 mt-3 mt-md-0">
     Yihao Wang <br />
     M.S. candidate <br />
-    B.S., Statistics, University of Illinois at Urbana-Champaign
+    B.S. in Statistics, University of Illinois at Urbana-Champaign
     </div>
 </div>  
 &nbsp;
@@ -62,7 +62,7 @@ sort: 3
     <div class="col-sm-8 mt-3 mt-md-0">
     Ruofan Wang <br />
     M.S. candidate <br />
-    B.S., Statistics, Southern University of Science and Technology
+    B.S. in Statistics, Southern University of Science and Technology
     </div>
 </div>  
 &nbsp;
@@ -76,7 +76,7 @@ sort: 3
     <div class="col-sm-8 mt-3 mt-md-0">
     Yue Yu <br />
     M.S. candidate <br />
-    B.S., Statistics, the Ohio State University
+    B.S. in Statistics, the Ohio State University
     </div>
 </div>  
 &nbsp;
