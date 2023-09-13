@@ -44,6 +44,22 @@ sort: 3
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Andrew.png" title="AL" class="img-fluid rounded z-depth-1" width="250"%}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+    Anrew Lakkis <br />
+    (2023 Fall Lab Rotation) <br />
+    Ph.D. candidate, Biostatistics <br />
+    M.S. in Statistics, Rutgers University <br />
+    B.A. in Mathematics - Statistics, Rutgers University
+    </div>
+</div>  
+&nbsp;
+
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Yihao Wang.jpg" title="YW" class="img-fluid rounded z-depth-1" width="250"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
