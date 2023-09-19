@@ -47,7 +47,7 @@ sort: 3
         {% include figure.html path="assets/img/Andrew.png" title="AL" class="img-fluid rounded z-depth-1" width="250"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-    Anrew Lakkis <br />
+    Andrew Lakkis <br />
     (2023 Fall Lab Rotation) <br />
     Ph.D. candidate, Biostatistics <br />
     M.S. in Statistics, Rutgers University <br />
