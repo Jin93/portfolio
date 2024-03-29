@@ -6,7 +6,7 @@ nav: true
 sort: 4
 ---
 
-### __Instructor__
+#### __Instructor__
 (at the University of Pennsylvania)
 
 __BSTA 621Statistical Inference I__: [(Spring 2024)](https://www.med.upenn.edu/bgs/assets/user-content/documents/spring-2024-courses/bsta-6210-spring-2024.pdf): 
@@ -14,7 +14,7 @@ __BSTA 621Statistical Inference I__: [(Spring 2024)](https://www.med.upenn.edu/b
 
 &nbsp;  
 
-### __Teaching Assistant__
+#### __Teaching Assistant__
 (at the University of Minnesota, Twin Cities)  
 
 
