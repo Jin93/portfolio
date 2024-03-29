@@ -10,7 +10,7 @@ sort: 2
   <p>Please see <a href="https://scholar.google.com/citations?user=yMMz4BMAAAAJ&hl=en" target="_blank">Google Scholar</a> for a full list of publications.</p>
   
   
-  I have a broad research interest in developing statistical and computational methods to address cutting-edge public health problems by integrating information from diverse large datasets. My current focus is on racial- and ethnic-based health disparities, specifically, the development of trans-ethnic models for informing the prediction and biology of diseases.
+
 
 ---
   __Risk prediction models for human diseases__
