@@ -6,7 +6,13 @@ nav: true
 sort: 4
 ---
 
-## Teaching Assistant 
+### __Instructor__
+(at the University of Pennsylvania)
+
+[BSTA 621](https://www.med.upenn.edu/bgs/assets/user-content/documents/spring-2024-courses/bsta-6210-spring-2024.pdf): Statistical Inference I (Spring 2024)
+- Office Hour: Tue 11:00am - 12:00pm, 203 Blockley Hall
+
+### __Teaching Assistant__
 (at the University of Minnesota, Twin Cities)  
 &nbsp;  
 
