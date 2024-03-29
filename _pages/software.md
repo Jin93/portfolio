@@ -6,7 +6,7 @@ nav: true
 sort: 6
 ---
 
-#### R Packages
+#### __R Packages__
 [MUSSEL](https://github.com/Jin93/MUSSEL){:target="_blank"}
 An R-based command line tool for implementing MUSSEL (MUltivariate Spike and Slab and Ensemble Learning), a powerful method for developing ancestry-specific polygenic risk score (PRS) that integrates information from GWAS summary statistics and external LD reference data from multiple populations (ancestry groups).
 
@@ -20,7 +20,7 @@ A DAG-informed high-dimensional two-sample test for disease-associated gene path
 &nbsp;
 
 --- 
-#### COVID-19 Risk Tools
+#### __COVID-19 Risk Tools__
 [Mortality Risk Calculator](https://covid19risktools.com:8443/riskcalculator){:target="_blank"}
 
 <div class="row justify-content-sm-center">
