@@ -10,10 +10,10 @@ sort: 2
   <p>Please see <a href="https://scholar.google.com/citations?user=yMMz4BMAAAAJ&hl=en" target="_blank">Google Scholar</a> for a full list of publications.</p>
   
   
-</br>
 
 ---
 ####  __Polygenic Risk Prediction__
+
 </br>
 <div class="row justify-content-sm-center">
   <div class="col-sm-4 mt-3 mt-md-0">
@@ -138,12 +138,12 @@ I collaborated with Dr. <a href="https://taryue.github.io/">Yue Wang</a> from Ar
 
 
 &nbsp;
-</br>
+
 
 ---
 
 #### __Early-phase oncology trial design__
-</br>
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/CBHM_long.png" title="Basket Trials" class="img-fluid rounded z-depth-1" %}
@@ -159,4 +159,4 @@ I collaborated with Dr. <a href="https://taryue.github.io/">Yue Wang</a> from Ar
 [[PDF]](https://link.springer.com/article/10.1007/s12561-020-09267-2)
 [[Code]](https://github.com/Jin93/PreliminaryPoC)
 
-</br>
+
