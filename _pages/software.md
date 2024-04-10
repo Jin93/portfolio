@@ -9,7 +9,7 @@ sort: 6
 
 #### [MUSSEL](https://github.com/Jin93/MUSSEL){:target="_blank"}
 An R-based command line tool for implementing MUSSEL (MUltivariate Spike and Slab and Ensemble Learning), a powerful method for developing ancestry-specific polygenic risk scores (PRS) that integrates information from GWAS summary statistics and external LD reference data from multiple populations (ancestry groups).
-[[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10120638/)
+[[Paper]](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00095-8#secsectitle0010)
 
 
 --- 
