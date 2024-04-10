@@ -9,12 +9,11 @@ sort: 2
   <div class="publications" markdown="1">
   <p>Please see <a href="https://scholar.google.com/citations?user=yMMz4BMAAAAJ&hl=en" target="_blank">Google Scholar</a> for a full list of publications.</p>
   
-  
+&nbsp;
 
 ---
 ####  __Polygenic Risk Prediction__
-
-</br>
+&nbsp;
 <div class="row justify-content-sm-center">
   <div class="col-sm-4 mt-3 mt-md-0">
   {% include figure.html path="assets/img/MUSSEL_GA.jpg" title="Example Figure: Disease Risk Prediction" class="img-fluid rounded z-depth-1" %}
@@ -44,18 +43,19 @@ sort: 2
 - Rabinowitz, J., __Jin, J.__, Kuo, S., Thrul, J., Reboussin, B., Domingue, B., Ialongo, N., Maher, B.,Uhl, G. Positive Associations between Cannabis and Alcohol Use Polygenic Risk Scores and Phenotypic Opioid Misuse among African-Americans. *PLOS One*, 17(4), p.e0266384, 2022.
 [[PDF]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266384)
 
-</br>
+&nbsp;
+
 
 ---
 ####  __Integrative risk prediction models for human diseases__
-</br>
+&nbsp;
 <div class="row justify-content-sm-center">
   <div class="col-sm-5 mt-3 mt-md-0">
   {% include figure.html path="assets/img/risk_prediction_long.png" title="Example Figure: Disease Risk Prediction" class="img-fluid rounded z-depth-1" %}
 </div>
   <div class="col-sm-7 mt-3 mt-md-0">Large-scale epidemiologic studies, including modern genome-wide association studies (GWAS), are now rapidly leading to the identification of novel risk factors for human diseases. To summarize these findings into more effective strategies for reducing disease burden, a critical step is to advance risk prediction tools that predict future risk of diseases for healthy individuals and precision medicine to guide treatment strategies for targeted groups of patients.</div>
   </div>  
-  &nbsp;
+&nbsp;
 
 - __Jin, J.$$^*$$__, Agarwala, N.$$^*$$, Kundu, P.$$^*$$, Harvey, B., Zhang, Y., Wallace, E., , Chatterjee, N. Individual and Community-level Risk for COVID-19 Mortality in the United States. *Nature Medicine*, 27(2), 264-269, 2021.
 [[PDF]](https://www.nature.com/articles/s41591-020-01191-8.pdf) [[Code]](https://github.com/Jin93/COVID19Risk)
@@ -64,11 +64,11 @@ sort: 2
 [[PDF]](https://link.springer.com/article/10.1007/s11606-021-06857-8)
 
 
-</br>
+&nbsp;
 ---
 
 #### __High-dimensional tests for disease-associated gene pathways__
-</br>
+&nbsp;
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/T2DAG_long.png" title="T2DAG" class="img-fluid rounded z-depth-1" %}
@@ -85,12 +85,11 @@ I collaborated with Dr. <a href="https://taryue.github.io/">Yue Wang</a> from Ar
 
 &nbsp;
 
-</br>
 
 ---
 
 #### __Mendelian randomization (MR) analysis for latent exposures__
-</br>
+&nbsp;
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/MRLE.png" title="MRLE" class="img-fluid rounded z-depth-1" %}
@@ -107,12 +106,11 @@ I collaborated with Dr. <a href="https://taryue.github.io/">Yue Wang</a> from Ar
 
 
 &nbsp;
-</br>
 
 ---
 
 #### __MpMRI-based classification of Prostate cancer (PCa)__
-</br>
+&nbsp;
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/PCA_long.png" title="PCa detection" class="img-fluid rounded z-depth-1" %}
@@ -143,7 +141,7 @@ I collaborated with Dr. <a href="https://taryue.github.io/">Yue Wang</a> from Ar
 ---
 
 #### __Early-phase oncology trial design__
-
+&nbsp;
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/CBHM_long.png" title="Basket Trials" class="img-fluid rounded z-depth-1" %}
@@ -159,4 +157,5 @@ I collaborated with Dr. <a href="https://taryue.github.io/">Yue Wang</a> from Ar
 [[PDF]](https://link.springer.com/article/10.1007/s12561-020-09267-2)
 [[Code]](https://github.com/Jin93/PreliminaryPoC)
 
+&nbsp;
 
