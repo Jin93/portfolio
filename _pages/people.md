@@ -14,7 +14,7 @@ sort: 3
         {% include figure.html path="assets/img/Jin_08_23.jpeg" title="Jin" class="img-fluid rounded z-depth-1" width="250"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-    Jin Jin <br />
+    __Jin Jin__ <br />
     Assistant Professor of Biostatistics <br />
     Ph.D. in Biostatistics, University of Minnesota Twin Cities <br />
     B.S. in Statistics, University of Science and Technology of China</div>
