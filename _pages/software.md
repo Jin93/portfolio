@@ -46,5 +46,4 @@ An R package for DAG-informed high-dimensional two-sample test for disease-assoc
 </div>
 &nbsp;
 
-
 [[Paper](https://www.nature.com/articles/s41591-020-01191-8)]

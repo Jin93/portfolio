@@ -10,10 +10,41 @@ sort: 2
   <p>Please see <a href="https://scholar.google.com/citations?user=yMMz4BMAAAAJ&hl=en" target="_blank">Google Scholar</a> for a full list of publications.</p>
   
   
+---
+  __Polygenic Risk Prediction__
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-5 mt-3 mt-md-0">
+  {% include figure.html path="assets/img/risk_prediction_long.png" title="Example Figure: Disease Risk Prediction" class="img-fluid rounded z-depth-1" %}
+</div>
+  <div class="col-sm-7 mt-3 mt-md-0">We develop enhanced algorithms and software tools for improving the clinical utility and transferability of polygenic risk prediction models.</div>
+  </div>  
+  &nbsp;
+
+
+- __Jin, J.__, Zhan, J., Zhang, J., Zhao, R., O’Connell, J., Jiang, Y., Aslibekyan, S., Auton, A., Babalola, E., Bell, R.K., et al. MUSSEL: Enhanced Bayesian polygenic risk prediction leveraging information across multiple ancestry groups. *Cell Genomics*, 4(4), 100539, 2024.
+[[PDF]](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00095-8#secsectitle0005) [[Software]](https://github.com/Jin93/MUSSEL)  
+- Dun, Y., Chatterjee, N., __Jin, J.__$$^*$$, Nishimura, A$$^*$$. A Robust Bayesian Method for Building Polygenic Risk Scores using Projected Summary Statistics and Bridge Prior, *arXiv*, 2024.
+[[PDF]](https://arxiv.org/abs/2401.15014)
+- Zhang, H., Zhan, J., __Jin, J.__, Zhang, J., Ahearn, T., Yu, Z., O’ Connell, J., Jiang, Y., Koelsch, B., 23andMe research team, Lin, X., Garcia-Closas, M., Chatterjee, N. A New Method for Multiancestry Polygenic prediction Improves Performance across Diverse Populations. *Nature Genetics*, 55(10), 1757-1768, 2023.
+[[PDF]](https://www.nature.com/articles/s41588-023-01501-z)  
+[[Software]](https://github.com/andrewhaoyu/CTSLEB)
+[[Code]](https://github.com/andrewhaoyu/multi_ethnic)
+- Zhang, J., Zhan, J., __Jin, J.__, Ma, C., Zhao, R., Connell, J.O., Jiang, Y., 23andMe Research Team, Koelsch, B.L., Zhang, H., Chatterjee, N. An Ensemble Penalized Regression Method for Multi-ancestry Polygenic Risk Prediction. tO appear in *Nature Communications*, 2023.
+[[PDF]](https://www.biorxiv.org/content/10.1101/2023.03.15.532652v1.abstract)  
+[[Software]](https://github.com/Jingning-Zhang/PROSPER)
+[[Code]](https://github.com/Jingning-Zhang/PROSPER_analysis)
+- Yu, Z., __Jin, J.__, Tin, A., Kottgen, A., Yu B., Chen J., Ballantyne, C.M., Hoogeveen, R.C., Arking, D.E., Chatterjee, N., Coresh, J., Grams, M.E., Coresh J. Polygenic Risk Scores for Kidney Function to the Circulating Proteome, and Incident Kidney Diseases: the Atherosclerosis Risk in Community Study. *Journal of the American Society of Nephrology*, 2021. DOI: 10.1681/ASN.2020111599.  
+[[PDF]](https://jasn.asnjournals.org/content/jnephrol/early/2021/11/02/ASN.2020111599.full.pdf?with-ds=yes)  
+(This work was selected by the American Society of Nephrology (ASN) as the “Best of ASN Journals” in 2021.)
+- Rabinowitz, J.A., Jin, J., Kahn, G., Kuo, S.I., Campos, A., Renteria, M., Benke, K., Wilcox, H., Ialongo, N.S., Maher, B.S. and others. Genetic Propensity for Risky Behavior and Depression and Risk of Lifetime Suicide Attempt among Urban African Americans in Adolescence and Young Adulthood. *American Journal of Medical Genetics Part B: Neuropsychiatric Genetics*, 2021. DOI: 10.1002/ajmg.b.32866.
+[[PDF]](https://onlinelibrary.wiley.com/doi/10.1002/ajmg.b.32866)
+- Rabinowitz, J., __Jin, J.__, Kuo, S., Thrul, J., Reboussin, B., Domingue, B., Ialongo, N., Maher, B.,Uhl, G. Positive Associations between Cannabis and Alcohol Use Polygenic Risk Scores and Phenotypic Opioid Misuse among African-Americans. *PLOS One*, 17(4), p.e0266384, 2022.
+[[PDF]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266384)
 
 
 ---
-  __Risk prediction models for human diseases__
+  __Integrative risk prediction models for human diseases__
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-5 mt-3 mt-md-0">
@@ -26,16 +57,10 @@ sort: 2
 - __Jin, J.$$^*$$__, Agarwala, N.$$^*$$, Kundu, P.$$^*$$, Harvey, B., Zhang, Y., Wallace, E., , Chatterjee, N. Individual and Community-level Risk for COVID-19 Mortality in the United States. *Nature Medicine*, 27(2), 264-269, 2021.
 [[PDF]](https://www.nature.com/articles/s41591-020-01191-8.pdf) [[Code]](https://github.com/Jin93/COVID19Risk)
 [[Online Tools]](http://covid19risktools.com/)  
-- Yu, Z., __Jin, J.__, Tin, A., Kottgen, A., Yu B., Chen J., Ballantyne, C.M., Hoogeveen, R.C., Arking, D.E., Chatterjee, N., Coresh, J., Grams, M.E., Coresh J. Polygenic Risk Scores for Kidney Function to the Circulating Proteome, and Incident Kidney Diseases: the Atherosclerosis Risk in Community Study. *Journal of the American Society of Nephrology*, 2021. DOI: 10.1681/ASN.2020111599.  
-[[PDF]](https://jasn.asnjournals.org/content/jnephrol/early/2021/11/02/ASN.2020111599.full.pdf?with-ds=yes)  
-(This work was selected by the American Society of Nephrology (ASN) as the “Best of ASN Journals” in 2021.)
-- Rabinowitz, J.A., Jin, J., Kahn, G., Kuo, S.I., Campos, A., Renteria, M., Benke, K., Wilcox, H., Ialongo, N.S., Maher, B.S. and others. Genetic Propensity for Risky Behavior and Depression and Risk of Lifetime Suicide Attempt among Urban African Americans in Adolescence and Young Adulthood. *American Journal of Medical Genetics Part B: Neuropsychiatric Genetics*, 2021. DOI: 10.1002/ajmg.b.32866.
-[[PDF]](https://onlinelibrary.wiley.com/doi/10.1002/ajmg.b.32866)
-- __Jin, J.__, Taub, M., Conomos, M., Mathias, R., Chatterjee, N. Ancestry-specific Polygenic Risk Scores for Telomere Length and a Phenome-wide Association Study for Their Association with Risks of Age-related Diseases. 2021+
-  [[Slides]](https://drive.google.com/file/d/1Vlw5RDoXcznKk4_bp4bIl52PM_wJBnYd/view?usp=sharing)
-- Zhang, H., Zhan, J., __Jin, J.__, Zhang, J., Ahearn, T., Zhi, Y., O' Connell, J., Jiang, Y., Koelsch, B., 23andMe research team, Lin, X., Garcia-Closas, M., Chatterjee, N. Developing Trans-ethnic Polygenic Risk Scores Using Empirical Bayes and Super Learning Algorithm. 2021+
-[[Abstract]](https://eventpilotadmin.com/doc/clients/ASHG/ASHG21/library/pdf/abstract_odP2576.pdf?display)  
-&nbsp;
+- Ballreich, J., __Jin, J.__, Kundu, P., Chatterjee, N. Provider and Patient Characteristics of Medicare Beneficiaries Who Are High-Risk for COVID-19 Mortality, *Journal of General Internal Medicine*, 36(7), 2189–2190, 2021.
+[[PDF]](https://link.springer.com/article/10.1007/s11606-021-06857-8)
+
+
   
 ---
 
