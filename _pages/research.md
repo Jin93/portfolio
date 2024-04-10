@@ -10,6 +10,8 @@ sort: 2
   <p>Please see <a href="https://scholar.google.com/citations?user=yMMz4BMAAAAJ&hl=en" target="_blank">Google Scholar</a> for a full list of publications.</p>
   
   
+</br>
+
 ---
   __Polygenic Risk Prediction__
 
@@ -42,6 +44,7 @@ sort: 2
 - Rabinowitz, J., __Jin, J.__, Kuo, S., Thrul, J., Reboussin, B., Domingue, B., Ialongo, N., Maher, B.,Uhl, G. Positive Associations between Cannabis and Alcohol Use Polygenic Risk Scores and Phenotypic Opioid Misuse among African-Americans. *PLOS One*, 17(4), p.e0266384, 2022.
 [[PDF]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266384)
 
+</br>
 
 ---
   __Integrative risk prediction models for human diseases__
@@ -61,7 +64,7 @@ sort: 2
 [[PDF]](https://link.springer.com/article/10.1007/s11606-021-06857-8)
 
 
-  
+</br>
 ---
 
 __High-dimensional tests for disease-associated gene pathways__
@@ -81,6 +84,8 @@ I collaborated with Dr. <a href="https://taryue.github.io/">Yue Wang</a> from Ar
 [[Code]](https://github.com/Jin93/T2DAG)
 
 &nbsp;
+
+</br>
 
 ---
 
@@ -102,6 +107,7 @@ __Mendelian randomization (MR) analysis for latent exposures__
 
 
 &nbsp;
+</br>
 
 ---
 
@@ -132,6 +138,7 @@ __MpMRI-based classification of Prostate cancer (PCa)__
 
 
 &nbsp;
+</br>
 
 ---
 
@@ -152,4 +159,4 @@ __Early-phase oncology trial design__
 [[PDF]](https://link.springer.com/article/10.1007/s12561-020-09267-2)
 [[Code]](https://github.com/Jin93/PreliminaryPoC)
 
-
+</br>
