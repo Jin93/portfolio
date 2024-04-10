@@ -15,9 +15,9 @@ sort: 2
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-5 mt-3 mt-md-0">
-  {% include figure.html path="assets/img/risk_prediction_long.png" title="Example Figure: Disease Risk Prediction" class="img-fluid rounded z-depth-1" %}
+  {% include figure.html path="assets/img/MUSSEL_GA.jpg" title="Example Figure: Disease Risk Prediction" class="img-fluid rounded z-depth-1" %}
 </div>
-  <div class="col-sm-7 mt-3 mt-md-0">We develop enhanced algorithms and software tools for improving the clinical utility and transferability of polygenic risk prediction models.</div>
+  <div class="col-sm-7 mt-3 mt-md-0">While polygenic risk scores (PRS) become increasingly robust with increasingly larger GWAS, there are considerable debates about its clinical utility. We develop enhanced algorithms and software tools for improving the predictive utility and transferability of polygenic risk prediction models across diverse populations and complex human traits.</div>
   </div>  
   &nbsp;
 
