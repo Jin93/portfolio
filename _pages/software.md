@@ -8,25 +8,18 @@ sort: 6
 
 
 #### [__MUSSEL__](https://github.com/Jin93/MUSSEL){:target="_blank"}
-<div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-2 mt-md-0">
-        {% include figure.html path="assets/img/MUSSEL_workflow.jpg" title="Example output of the risk tool" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-8 mt-2 mt-md-0"> An R-based command line tool for implementing MUSSEL (MUltivariate Spike and Slab and Ensemble Learning), a powerful method for developing ancestry-specific polygenic risk score (PRS) that integrates information from GWAS summary statistics and external LD reference data from multiple populations (ancestry groups).</div>
-</div>
-&nbsp;
-
-- __Jin, J.__, Zhan, J., Zhang, J., Zhao, R., O’Connell, J., Jiang, Y., Aslibekyan, S., Auton, A., Babalola, E., Bell, R.K., et al. MUSSEL: Enhanced Bayesian polygenic risk prediction leveraging information across multiple ancestry groups. Cell Genomics 4(4), 100539, 2024.
-[[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10120638/)
+An R-based command line tool for implementing MUSSEL (MUltivariate Spike and Slab and Ensemble Learning), a powerful method for developing ancestry-specific polygenic risk scores (PRS) that integrates information from GWAS summary statistics and external LD reference data from multiple populations (ancestry groups).
+[[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10120638/)
 
 
 --- 
+#### [__MRLE__](https://github.com/Jin93/MRLE){:target="_blank"}
+An R package for conducting Mendelian randomization analysis for a latent exposure leveraging information from multiple biomarkers. [[Paper](https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxae006/7624600?redirectedFrom=fulltext&login=false)] [[Preprint](https://www.biorxiv.org/content/10.1101/2021.02.05.429979v3.abstract)]
 
-[MRLE](https://github.com/Jin93/MRLE){:target="_blank"}
-Mendelian randomization analysis for latent exposures leveraging information from multiple biomarkers. [[Paper](https://www.biorxiv.org/content/10.1101/2021.02.05.429979v3.abstract)]
 
-[T2DAG](https://github.com/Jin93/T2DAG){:target="_blank"}
-A DAG-informed high-dimensional two-sample test for disease-associated gene pathways. [[Paper](https://academic.oup.com/bioinformatics/article/38/4/1005/6424893)]
+--- 
+#### [__T2DAG__](https://github.com/Jin93/T2DAG){:target="_blank"}
+An R package for DAG-informed high-dimensional two-sample test for disease-associated gene pathways. [[Paper](https://academic.oup.com/bioinformatics/article/38/4/1005/6424893)]
 &nbsp;
 
 --- 
