@@ -67,10 +67,10 @@ sort: 2
 __High-dimensional tests for disease-associated gene pathways__
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/T2DAG_long.png" title="T2DAG" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">A major task in genetic studies is to identify genes related to human traits/diseases. Compared to marginal analyses of individual genes, detecting gene pathway, i.e., gene sets with known interactions that collectively contribute to some biological functions, can provide more biologically meaningful results. Due to the typically limited sample sizes, such analyses are usually high-dimensional, where the existing tests tend to have compromised power since they do not or only inefficiently incorporate the external pathway information on gene interactions. </div>
+    <div class="col-sm-7 mt-3 mt-md-0">A major task in genetic studies is to identify genes related to human traits/diseases. Compared to marginal analyses of individual genes, detecting gene pathway, i.e., gene sets with known interactions that collectively contribute to some biological functions, can provide more biologically meaningful results. Due to the typically limited sample sizes, such analyses are usually high-dimensional, where the existing tests tend to have compromised power since they do not or only inefficiently incorporate the external pathway information on gene interactions. </div>
 </div>  
 I collaborated with Dr. <a href="https://taryue.github.io/">Yue Wang</a> from Arizona State Univeristy and proposed a graph-informed test which efficiently leverages the auxiliary pathway information via structural equation modeling to improve the estimation of the precision matrix.  
 &nbsp;
@@ -87,10 +87,10 @@ I collaborated with Dr. <a href="https://taryue.github.io/">Yue Wang</a> from Ar
 __Mendelian randomization (MR) analysis for latent exposures__
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MRLE_long.png" title="MRLE" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/MRLE.png" title="MRLE" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">Recent MR research has focused on improving robustness to the presence of pleiotropic associations, by which genetic instruments can affect the outcome independent of the exposure and thus leading to the violation of key assumptions. I investigated a novel setting of pleiotropic association where genetic variants might be associated with multiple observed traits through an underlying latent exposure which may have a causal effect on the outcome.</div>
+    <div class="col-sm-7 mt-3 mt-md-0">Recent MR research has focused on improving robustness to the presence of pleiotropic associations, by which genetic instruments can affect the outcome independent of the exposure and thus leading to the violation of key assumptions. I investigated a novel setting of pleiotropic association where genetic variants might be associated with multiple observed traits through an underlying latent exposure which may have a causal effect on the outcome.</div>
 </div>
 &nbsp;
 
