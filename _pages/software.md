@@ -19,7 +19,7 @@ An R package for conducting Mendelian randomization analysis for a latent exposu
 
 --- 
 #### [T2DAG](https://github.com/Jin93/T2DAG){:target="_blank"}
-An R package for DAG-informed high-dimensional two-sample test for disease-associated gene pathways. [[Paper](https://academic.oup.com/bioinformatics/article/38/4/1005/6424893)]
+An R package for graph-informed detection of disease-associated gene pathways. [[Paper](https://academic.oup.com/bioinformatics/article/38/4/1005/6424893)]
 &nbsp;
 
 --- 
