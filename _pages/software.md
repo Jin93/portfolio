@@ -16,7 +16,8 @@ sort: 6
 </div>
 &nbsp;
 
-[[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10120638/)] 
+- __Jin, J.__, Zhan, J., Zhang, J., Zhao, R., O’Connell, J., Jiang, Y., Aslibekyan, S., Auton, A., Babalola, E., Bell, R.K., et al. MUSSEL: Enhanced Bayesian polygenic risk prediction leveraging information across multiple ancestry groups. Cell Genomics 4(4), 100539, 2024.
+[[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10120638/)
 
 
 --- 
