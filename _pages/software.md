@@ -24,7 +24,7 @@ An R package for DAG-informed high-dimensional two-sample test for disease-assoc
 
 --- 
 #### __COVID-19 Risk Tools__
-[Mortality Risk Calculator](https://covid19risktools.com:8443/riskcalculator){:target="_blank"}
+#### [Mortality Risk Calculator](https://covid19risktools.com:8443/riskcalculator){:target="_blank"}
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
@@ -35,7 +35,7 @@ An R package for DAG-informed high-dimensional two-sample test for disease-assoc
 &nbsp;
 
 
-[Risk Interactive Maps](https://jhucovid19.policymap.com/newmaps#/){:target="_blank"}
+#### [Risk Interactive Maps](https://jhucovid19.policymap.com/newmaps#/){:target="_blank"}
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
