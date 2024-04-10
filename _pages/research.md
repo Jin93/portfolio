@@ -13,14 +13,12 @@ sort: 2
 
 ---
 ####  __Polygenic Risk Prediction__
-&nbsp;
 <div class="row justify-content-sm-center">
   <div class="col-sm-4 mt-3 mt-md-0">
   {% include figure.html path="assets/img/MUSSEL_GA.jpg" title="Example Figure: Disease Risk Prediction" class="img-fluid rounded z-depth-1" %}
 </div>
   <div class="col-sm-8 mt-3 mt-md-0">While polygenic risk scores (PRS) become increasingly robust with increasingly larger GWAS, there are considerable debates about its clinical utility. We develop enhanced algorithms and software tools for improving the predictive utility and transferability of polygenic risk prediction models across diverse populations and complex human traits.</div>
   </div>  
-  &nbsp;
 
 
 - __Jin, J.__, Zhan, J., Zhang, J., Zhao, R., O’Connell, J., Jiang, Y., Aslibekyan, S., Auton, A., Babalola, E., Bell, R.K., et al. MUSSEL: Enhanced Bayesian polygenic risk prediction leveraging information across multiple ancestry groups. *Cell Genomics*, 4(4), 100539, 2024.
@@ -48,14 +46,12 @@ sort: 2
 
 ---
 ####  __Integrative risk prediction models for human diseases__
-&nbsp;
 <div class="row justify-content-sm-center">
   <div class="col-sm-5 mt-3 mt-md-0">
   {% include figure.html path="assets/img/risk_prediction_long.png" title="Example Figure: Disease Risk Prediction" class="img-fluid rounded z-depth-1" %}
 </div>
   <div class="col-sm-7 mt-3 mt-md-0">Large-scale epidemiologic studies, including modern genome-wide association studies (GWAS), are now rapidly leading to the identification of novel risk factors for human diseases. To summarize these findings into more effective strategies for reducing disease burden, a critical step is to advance risk prediction tools that predict future risk of diseases for healthy individuals and precision medicine to guide treatment strategies for targeted groups of patients.</div>
   </div>  
-&nbsp;
 
 - __Jin, J.$$^*$$__, Agarwala, N.$$^*$$, Kundu, P.$$^*$$, Harvey, B., Zhang, Y., Wallace, E., , Chatterjee, N. Individual and Community-level Risk for COVID-19 Mortality in the United States. *Nature Medicine*, 27(2), 264-269, 2021.
 [[PDF]](https://www.nature.com/articles/s41591-020-01191-8.pdf) [[Code]](https://github.com/Jin93/COVID19Risk)
@@ -68,7 +64,6 @@ sort: 2
 ---
 
 #### __High-dimensional tests for disease-associated gene pathways__
-&nbsp;
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/T2DAG_long.png" title="T2DAG" class="img-fluid rounded z-depth-1" %}
@@ -76,7 +71,6 @@ sort: 2
     <div class="col-sm-7 mt-3 mt-md-3">A major task in genetic studies is to identify genes related to human traits/diseases. Compared to marginal analyses of individual genes, detecting gene pathway, i.e., gene sets with known interactions that collectively contribute to some biological functions, can provide more biologically meaningful results. Due to the typically limited sample sizes, such analyses are usually high-dimensional, where the existing tests tend to have compromised power since they do not or only inefficiently incorporate the external pathway information on gene interactions. </div>
 </div>  
 I collaborated with Dr. <a href="https://taryue.github.io/">Yue Wang</a> from Arizona State Univeristy and proposed a graph-informed test which efficiently leverages the auxiliary pathway information via structural equation modeling to improve the estimation of the precision matrix.  
-&nbsp;
 
 
 -	__Jin, J.__, Yue, W. T2-DAG: A Powerful Test for Differentially Expressed Gene Pathways via Graph-informed Structural Equation Modeling. *Bioinformatics*, btab770, 2021.
@@ -89,7 +83,6 @@ I collaborated with Dr. <a href="https://taryue.github.io/">Yue Wang</a> from Ar
 ---
 
 #### __Mendelian randomization (MR) analysis for latent exposures__
-&nbsp;
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/MRLE.png" title="MRLE" class="img-fluid rounded z-depth-1" %}
@@ -104,20 +97,17 @@ I collaborated with Dr. <a href="https://taryue.github.io/">Yue Wang</a> from Ar
 [[Slide]](https://drive.google.com/file/d/1VJJbCpMMm7qld0f0_qB9n32d4L6Om4XN/view?usp=sharing)
 
 
-
 &nbsp;
 
 ---
 
 #### __MpMRI-based classification of Prostate cancer (PCa)__
-&nbsp;
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/PCA_long.png" title="PCa detection" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">My research during the Ph.D. program focused on voxel-wise PCa detection using mpMRI, a critical tool in PCa diagnosis and management. MpMRI examinations are currently interpreted manually which is limited due to inter-reader variability. Automatic, quantitative predictive methods are thus proposed to address these limitations. We identified critical issues of the existing methods and developed scalable, high-field MRI-based Bayesian and machine learning-based classifers that can be used as non-invasive tools to assist clinicians with PCa diagnosis and treatment.</div>
 </div>
-&nbsp;
 
 -	__Jin, J.__, Zhang, L., Leng, E., Metzger, G.J., Koopmeiners, J.S. Bayesian Spatial Models for Voxel-wise Prostate Cancer Classification Using Multi-parametric MRI Data. *Statistics in Medicine*, 1-17, 2021. DOI: https://doi.org/10.1002/sim.9245.
 [[PDF]](https://arxiv.org/abs/2001.07316)
@@ -141,7 +131,6 @@ I collaborated with Dr. <a href="https://taryue.github.io/">Yue Wang</a> from Ar
 ---
 
 #### __Early-phase oncology trial design__
-&nbsp;
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/CBHM_long.png" title="Basket Trials" class="img-fluid rounded z-depth-1" %}
