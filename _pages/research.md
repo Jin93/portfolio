@@ -14,7 +14,7 @@ sort: 2
 
 ---
 ####  __Polygenic Risk Prediction__
-
+</br>
 <div class="row justify-content-sm-center">
   <div class="col-sm-4 mt-3 mt-md-0">
   {% include figure.html path="assets/img/MUSSEL_GA.jpg" title="Example Figure: Disease Risk Prediction" class="img-fluid rounded z-depth-1" %}
@@ -47,8 +47,8 @@ sort: 2
 </br>
 
 ---
-  __Integrative risk prediction models for human diseases__
-
+####  __Integrative risk prediction models for human diseases__
+</br>
 <div class="row justify-content-sm-center">
   <div class="col-sm-5 mt-3 mt-md-0">
   {% include figure.html path="assets/img/risk_prediction_long.png" title="Example Figure: Disease Risk Prediction" class="img-fluid rounded z-depth-1" %}
@@ -67,8 +67,8 @@ sort: 2
 </br>
 ---
 
-__High-dimensional tests for disease-associated gene pathways__
-
+#### __High-dimensional tests for disease-associated gene pathways__
+</br>
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/T2DAG_long.png" title="T2DAG" class="img-fluid rounded z-depth-1" %}
@@ -89,8 +89,8 @@ I collaborated with Dr. <a href="https://taryue.github.io/">Yue Wang</a> from Ar
 
 ---
 
-__Mendelian randomization (MR) analysis for latent exposures__
-
+#### __Mendelian randomization (MR) analysis for latent exposures__
+</br>
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/MRLE.png" title="MRLE" class="img-fluid rounded z-depth-1" %}
@@ -111,8 +111,8 @@ __Mendelian randomization (MR) analysis for latent exposures__
 
 ---
 
-__MpMRI-based classification of Prostate cancer (PCa)__
-
+#### __MpMRI-based classification of Prostate cancer (PCa)__
+</br>
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/PCA_long.png" title="PCa detection" class="img-fluid rounded z-depth-1" %}
@@ -142,8 +142,8 @@ __MpMRI-based classification of Prostate cancer (PCa)__
 
 ---
 
-__Early-phase oncology trial design__
-
+#### __Early-phase oncology trial design__
+</br>
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/CBHM_long.png" title="Basket Trials" class="img-fluid rounded z-depth-1" %}
