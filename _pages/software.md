@@ -7,18 +7,18 @@ sort: 6
 ---
 
 
-#### [__MUSSEL__](https://github.com/Jin93/MUSSEL){:target="_blank"}
+#### [MUSSEL](https://github.com/Jin93/MUSSEL){:target="_blank"}
 An R-based command line tool for implementing MUSSEL (MUltivariate Spike and Slab and Ensemble Learning), a powerful method for developing ancestry-specific polygenic risk scores (PRS) that integrates information from GWAS summary statistics and external LD reference data from multiple populations (ancestry groups).
 [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10120638/)
 
 
 --- 
-#### [__MRLE__](https://github.com/Jin93/MRLE){:target="_blank"}
+#### [MRLE](https://github.com/Jin93/MRLE){:target="_blank"}
 An R package for conducting Mendelian randomization analysis for a latent exposure leveraging information from multiple biomarkers. [[Paper](https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxae006/7624600?redirectedFrom=fulltext&login=false)] [[Preprint](https://www.biorxiv.org/content/10.1101/2021.02.05.429979v3.abstract)]
 
 
 --- 
-#### [__T2DAG__](https://github.com/Jin93/T2DAG){:target="_blank"}
+#### [T2DAG](https://github.com/Jin93/T2DAG){:target="_blank"}
 An R package for DAG-informed high-dimensional two-sample test for disease-associated gene pathways. [[Paper](https://academic.oup.com/bioinformatics/article/38/4/1005/6424893)]
 &nbsp;
 
