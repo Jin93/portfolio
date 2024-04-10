@@ -8,8 +8,17 @@ sort: 6
 
 #### __R Packages__
 [MUSSEL](https://github.com/Jin93/MUSSEL){:target="_blank"}
-An R-based command line tool for implementing MUSSEL (MUltivariate Spike and Slab and Ensemble Learning), a powerful method for developing ancestry-specific polygenic risk score (PRS) that integrates information from GWAS summary statistics and external LD reference data from multiple populations (ancestry groups).
-[[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10120638/)]
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/MUSSEL_workflow.jpg" title="Example output of the risk tool" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0">An R-based command line tool for implementing MUSSEL (MUltivariate Spike and Slab and Ensemble Learning), a powerful method for developing ancestry-specific polygenic risk score (PRS) that integrates information from GWAS summary statistics and external LD reference data from multiple populations (ancestry groups).
+    [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10120638/)] </div>
+</div>
+&nbsp;
+
+
 
 [MRLE](https://github.com/Jin93/MRLE){:target="_blank"}
 Mendelian randomization analysis for latent exposures leveraging information from multiple biomarkers. [[Paper](https://www.biorxiv.org/content/10.1101/2021.02.05.429979v3.abstract)]
