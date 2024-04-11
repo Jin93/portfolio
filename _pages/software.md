@@ -12,6 +12,24 @@ An R-based command line tool for implementing MUSSEL (MUltivariate Spike and Sla
 [[Paper]](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00095-8)
 
 
+profiles:
+  # if you want to include more than one profile, just replicate the following block
+  # and create one content file for each profile inside _pages/
+  - align: left
+    image: assets/img/MUSSEL_workflow.jpg
+    content: An R-based command line tool for implementing MUSSEL (MUltivariate Spike and Slab and Ensemble Learning), a powerful method for developing ancestry-specific polygenic risk scores (PRS) that integrates information from GWAS summary statistics and external LD reference data from multiple populations (ancestry groups).
+[[Paper]](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00095-8)
+    image_circular: false # crops the image to make it circular
+    # more_info: >
+    #  <p>555 your office number</p>
+    #  <p>123 your address street</p>
+    #  <p>Your City, State 12345</p>
+  # - align: left
+    # image: prof_pic.jpg
+    # content: about_einstein.md
+    # image_circular: false # crops the image to make it circular
+---
+
 --- 
 #### [MRLE](https://github.com/Jin93/MRLE){:target="_blank"}
 An R package for conducting Mendelian randomization analysis for a latent exposure leveraging information from multiple biomarkers. [[Paper](https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxae006/7624600?redirectedFrom=fulltext&login=false)] [[Preprint](https://www.biorxiv.org/content/10.1101/2021.02.05.429979v3.abstract)]
