@@ -22,7 +22,7 @@ sort: 2
 
 
 - __Jin, J.__, Zhan, J., Zhang, J., Zhao, R., O’Connell, J., Jiang, Y., Aslibekyan, S., Auton, A., Babalola, E., Bell, R.K., et al. MUSSEL: Enhanced Bayesian polygenic risk prediction leveraging information across multiple ancestry groups. *Cell Genomics*, 4(4), 100539, 2024.
-[[PDF]](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00095-8#secsectitle0005) [[Software]](https://github.com/Jin93/MUSSEL)  
+[[PDF]](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00095-8) [[Software]](https://github.com/Jin93/MUSSEL)  
 - Dun, Y., Chatterjee, N., __Jin, J.__$$^*$$, Nishimura, A$$^*$$. A Robust Bayesian Method for Building Polygenic Risk Scores using Projected Summary Statistics and Bridge Prior, *arXiv*, 2024.
 [[PDF]](https://arxiv.org/abs/2401.15014)
 - Zhang, H., Zhan, J., __Jin, J.__, Zhang, J., Ahearn, T., Yu, Z., O’ Connell, J., Jiang, Y., Koelsch, B., 23andMe research team, Lin, X., Garcia-Closas, M., Chatterjee, N. A New Method for Multiancestry Polygenic prediction Improves Performance across Diverse Populations. *Nature Genetics*, 55(10), 1757-1768, 2023.
