@@ -137,7 +137,6 @@ I collaborated with Dr. <a href="https://taryue.github.io/">Yue Wang</a> from Ar
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">As oncology research are focusing more on the genomic aberrations potentially shared by multiple cancer types, basket trials have been proposed to assess the efficacy of a new treatment simultaneously on multiple cancer types. But even with shared genetic aberration, different cancers may respond to treatments differently. I collaborated with a research team at Sanofi to develop novel Bayesian methods for detecting treatment efficacy and proof of concept (PoC) in early-phase basket trials by flexible borrowing according to sample similarity measured by the distance between posterior distributions of the treatment effects.</div>
 </div>
-&nbsp;
 
 -	__Jin, J.__, Riviere, M.K., Luo, X., Dong, Y. Bayesian Methods for the Analysis of Early-phase Oncology Basket Trials with Information Borrowing across Cancer Types. *Statistics in Medicine*. 39(25), 3459-3475, 2020.
 [[PDF]](https://doi.org/10.1002/sim.8675)
