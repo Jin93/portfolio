@@ -29,8 +29,8 @@ sort: 2
 [[PDF]](https://www.nature.com/articles/s41588-023-01501-z)  
 [[Software]](https://github.com/andrewhaoyu/CTSLEB)
 [[Code]](https://github.com/andrewhaoyu/multi_ethnic)
-- Zhang, J., Zhan, J., __Jin, J.__, Ma, C., Zhao, R., Connell, J.O., Jiang, Y., 23andMe Research Team, Koelsch, B.L., Zhang, H., Chatterjee, N. An Ensemble Penalized Regression Method for Multi-ancestry Polygenic Risk Prediction. tO appear in *Nature Communications*, 2023.
-[[PDF]](https://www.biorxiv.org/content/10.1101/2023.03.15.532652v1.abstract)  
+- Zhang, J., Zhan, J., __Jin, J.__, Ma, C., Zhao, R., Connell, J.O., Jiang, Y., 23andMe Research Team, Koelsch, B.L., Zhang, H., Chatterjee, N. An Ensemble Penalized Regression Method for Multi-ancestry Polygenic Risk Prediction. *Nature Communications*, 15(1), 3238, 2024.
+[[PDF]](https://www.nature.com/articles/s41467-024-47357-7)  
 [[Software]](https://github.com/Jingning-Zhang/PROSPER)
 [[Code]](https://github.com/Jingning-Zhang/PROSPER_analysis)
 - Yu, Z., __Jin, J.__, Tin, A., Kottgen, A., Yu B., Chen J., Ballantyne, C.M., Hoogeveen, R.C., Arking, D.E., Chatterjee, N., Coresh, J., Grams, M.E., Coresh J. Polygenic Risk Scores for Kidney Function to the Circulating Proteome, and Incident Kidney Diseases: the Atherosclerosis Risk in Community Study. *Journal of the American Society of Nephrology*, 2021. DOI: 10.1681/ASN.2020111599.  
