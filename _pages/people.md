@@ -11,7 +11,7 @@ sort: 3
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Jin_08_23.jpeg" title="Jin" class="img-fluid rounded z-depth-1" width="250"%}
+        {% include figure.html path="assets/img/Jin_08_23.jpeg" title="Jin" class="img-fluid rounded z-depth-1" width="200"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Jin Jin <br />
@@ -26,13 +26,15 @@ sort: 3
 
 ## Current Members
 
+### Doctoral Students
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DongHeon.jpg" title="DH" class="img-fluid rounded z-depth-1" width="250"%}
+        {% include figure.html path="assets/img/DongHeon.jpg" title="DH" class="img-fluid rounded z-depth-1" width="200"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Dong Heon Lee <br />
-    (Co-advised by Mingyao Li) <br />
+    (Co-advised by [Mingyao Li](https://transgen.med.upenn.edu/)) <br />
     Ph.D. candidate, Biostatistics <br />
     M.S. in Public Health, the Dartmouth Institute for Health Policy & Clinical Practice <br />
     B.A. in Statistics, Williams College
@@ -48,7 +50,6 @@ sort: 3
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Andrew Lakkis <br />
-    (2023 Fall Lab Rotation) <br />
     Ph.D. candidate, Biostatistics <br />
     M.S. in Statistics, Rutgers University <br />
     B.A. in Mathematics - Statistics, Rutgers University
@@ -57,20 +58,34 @@ sort: 3
 &nbsp;
 
 
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Yihao Wang.jpg" title="YW" class="img-fluid rounded z-depth-1" width="250"%}
+        {% include figure.html path="assets/img/ivvone-zhou.jpg" title="AL" class="img-fluid rounded z-depth-1" width="250"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-    Yihao Wang <br />
-    M.S. candidate, Biostatistics <br />
-    B.S. in Statistics, University of Illinois at Urbana-Champaign
+    Ivvone Zhou <br />
+    (2024 Fall Lab Rotation) <br />
+    B.S. in Biostatistics and Quantitative Biology, the University of North Carolina at Chapel Hill
     </div>
 </div>  
 &nbsp;
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Luke-Stewart.jpg" title="AL" class="img-fluid rounded z-depth-1" width="250"%}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+    Luke Stewart<br />
+    (2024 Fall Lab Rotation) <br />
+    Ph.D. candidate, Biostatistics <br />
+    B.S. in Economics - Massachusetts Institute of Technology
+    </div>
+</div>  
 &nbsp;
-&nbsp;
+
+
+### Masters Students
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -85,7 +100,6 @@ sort: 3
 &nbsp;
 
 
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Yue Yu.png" title="YY" class="img-fluid rounded z-depth-1" width="250"%}
@@ -96,4 +110,36 @@ sort: 3
     B.S. in Statistics, the Ohio State University
     </div>
 </div>  
+&nbsp;
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/yao_you.png" title="YY" class="img-fluid rounded z-depth-1" width="250"%}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+    Yao You<br />
+    M.S. candidate, Biostatistics <br />
+    B.S. in Statistics, the Ohio State University
+    </div>
+</div>  
+&nbsp;
+
+---
+
+## Past Members
+
+### Masters Students
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Yihao Wang.jpg" title="YW" class="img-fluid rounded z-depth-1" width="250"%}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+    Yihao Wang <br />
+    Current position: Ph.D. student in Biostatistics, New York University
+    </div>
+</div>  
+&nbsp;
+&nbsp;
 &nbsp;
