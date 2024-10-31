@@ -52,7 +52,7 @@ sort: 3
     Andrew Lakkis <br />
     Ph.D. candidate, Biostatistics <br />
     M.S. in Statistics, Rutgers University <br />
-    B.A. in Mathematics - Statistics, Rutgers University
+    B.S. in Mathematics - Statistics, Rutgers University
     </div>
 </div>  
 &nbsp;
@@ -79,7 +79,7 @@ sort: 3
     Luke Stewart<br />
     (2024 Fall Lab Rotation) <br />
     Ph.D. candidate, Biostatistics <br />
-    B.S. in Economics - Massachusetts Institute of Technology
+    B.S. in Economics, Massachusetts Institute of Technology
     </div>
 </div>  
 &nbsp;
@@ -119,8 +119,8 @@ sort: 3
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Yao You<br />
-    M.S. candidate, Applied Mathematics and Computational Science <br />
-    B.S. in Statistics, the Ohio State University
+    M.S. candidate, Applied Mathematics and Computational Science, University of Pennsylvania <br />
+    B.S. in Mathematics and Statistics, UC Santa Barbara
     </div>
 </div>  
 &nbsp;
