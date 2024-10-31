@@ -25,7 +25,7 @@ sort: 3
 ---
 
 ## Current Members
-
+&nbsp;
 #### Doctoral Students
 
 <div class="row justify-content-sm-center">
@@ -83,7 +83,7 @@ sort: 3
     </div>
 </div>  
 &nbsp;
-
+&nbsp;
 
 #### Masters Students
 
@@ -131,7 +131,6 @@ sort: 3
 
 &nbsp;
 #### Masters Students
-&nbsp;
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
