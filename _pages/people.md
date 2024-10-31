@@ -65,6 +65,7 @@ sort: 3
     <div class="col-sm-8 mt-3 mt-md-0">
     Ivvone Zhou <br />
     (2024 Fall Lab Rotation) <br />
+    Ph.D. candidate, Biostatistics <br />
     B.S. in Biostatistics and Quantitative Biology, the University of North Carolina at Chapel Hill
     </div>
 </div>  
