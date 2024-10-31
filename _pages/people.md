@@ -115,11 +115,11 @@ sort: 3
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/yao_you.png" title="YY" class="img-fluid rounded z-depth-1" width="250"%}
+        {% include figure.html path="assets/img/yao_you.jpg" title="YY" class="img-fluid rounded z-depth-1" width="250"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Yao You<br />
-    M.S. candidate, Biostatistics <br />
+    M.S. candidate, Applied Mathematics and Computational Science <br />
     B.S. in Statistics, the Ohio State University
     </div>
 </div>  
