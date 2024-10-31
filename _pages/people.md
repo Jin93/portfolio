@@ -11,7 +11,7 @@ sort: 3
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Jin_08_23.jpeg" title="Jin" class="img-fluid rounded z-depth-1" width="200"%}
+        {% include figure.html path="assets/img/Jin_08_23.jpeg" title="Jin" class="img-fluid rounded z-depth-1" width="250"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Jin Jin <br />
@@ -26,11 +26,11 @@ sort: 3
 
 ## Current Members
 
-### Doctoral Students
+#### Doctoral Students
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DongHeon.jpg" title="DH" class="img-fluid rounded z-depth-1" width="200"%}
+        {% include figure.html path="assets/img/DongHeon.jpg" title="DH" class="img-fluid rounded z-depth-1" width="250"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
     Dong Heon Lee <br />
@@ -85,7 +85,7 @@ sort: 3
 &nbsp;
 
 
-### Masters Students
+#### Masters Students
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -129,7 +129,9 @@ sort: 3
 
 ## Past Members
 
-### Masters Students
+&nbsp;
+#### Masters Students
+&nbsp;
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
