@@ -1,12 +1,12 @@
 ---
 layout: page
-title: projects
+title: Gallery
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 
 nav: false
-nav_order: 2
+nav_order: 7
 display_categories: [work, fun]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
