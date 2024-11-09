@@ -126,6 +126,18 @@ sort: 3
 </div>  
 &nbsp;
 
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/JiyaoZhang_Photo.HEIC" title="YY" class="img-fluid rounded z-depth-1" width="250"%}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+    Jiyao Zhang<br />
+    M.S. candidate, Applied Mathematics and Computational Science, University of Pennsylvania <br />
+    </div>
+</div>  
+&nbsp;
+
 ---
 
 ## Past Members
