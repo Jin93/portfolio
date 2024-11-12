@@ -116,6 +116,20 @@ sort: 3
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Zhijie_Duan.png" title="" class="img-fluid rounded z-depth-1" width="250"%}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+    Zhijie Duan<br />
+    M.S. candidate, Biostatistics <br />
+    B.S. in Biostatistics, the University of North Carolina at Chapel Hill
+</div>
+</div>  
+&nbsp;
+
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/yao_you.jpg" title="YY" class="img-fluid rounded z-depth-1" width="250"%}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
